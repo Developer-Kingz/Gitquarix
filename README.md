@@ -1,6 +1,8 @@
 ## Starter Project
 
-- css provided (global styles, styled components)
+- Gitquarix is an application that allows users to search for developers and view their Github profile. It also has different kind of charts and graphs that shows developers' activities on Github over a period of time as well as their most used stacks. This project was built with ReactJs and a public GitHub API.
+
+- CSS provided (global styles, styled components)
 - folders/files already setup
 - all imports included (warnings)
 - index.js for easier imports
@@ -9,7 +11,7 @@
 
 [Styled-Components - Main Docs](https://styled-components.com/)
 
-```jsx
+```js
 import styled from "styled-components";
 
 const ReactComponent = () => {
